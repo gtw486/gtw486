@@ -1,4 +1,7 @@
-![header](https://capsule-render.vercel.app/api?type=soft&color=94B3FD&height=250&section=header&text=Han%20Sujin&fontSize=60&fontColor=FFFFFF)
+<p align="right">
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=F9A77B&height=260&section=header&text=Han%20Soojin&fontSize=75&fontColor=FFFFFF" />
+</p>
+
 
 
 <!DOCTYPE html>

@@ -1,8 +1,6 @@
 <p align="right">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=F9A77B&height=260&section=header&text=Han%20Soojin&fontSize=75&fontColor=FFFFFF" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=89CFF0,ADD8E6,E0FFFF&height=120&section=header&text=Han%20Soojin&fontSize=45&fontColor=ffffff" />
 </p>
-
-
 
 <!DOCTYPE html>
 <html>

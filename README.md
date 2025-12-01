@@ -62,7 +62,4 @@
   <img src = "https://img.shields.io/badge/Jupyter-F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white" />
 </div>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gtw486&show_icons=true&theme=tokyonight)
-
-
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gtw486&show_icons=true&theme=calm&cache_seconds=10)

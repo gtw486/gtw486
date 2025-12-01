@@ -14,9 +14,6 @@
 </div>
 
 <br>
-<div align = "center">
-  제 Github에 방문해 주셔서 감사합니다!<br>
-  <br>
 </div>
 
 <!-- 내용 부분 -->
@@ -62,4 +59,3 @@
   <img src = "https://img.shields.io/badge/Jupyter-F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white" />
 </div>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gtw486&show_icons=true&theme=calm&cache_seconds=10)
